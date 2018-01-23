@@ -1,0 +1,14 @@
+{
+    "name": "osianinfotech/cherry-plugin",
+    "description": "It is used for testing purpose",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "Lokesh Kumar",
+            "email": "lk07540@gmail.com"
+        }
+    ],
+    "require": {
+        "composer/composer": "1.6.0"
+    }
+}
