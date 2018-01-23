@@ -8,7 +8,6 @@
             "email": "lk07540@gmail.com"
         }
     ],
-    "require": {
-        "composer/composer": "1.6.0"
-    }
+    "minimum-stability": "stable",
+    "require": {}
 }
